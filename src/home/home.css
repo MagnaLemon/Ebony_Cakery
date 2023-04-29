@@ -1,0 +1,17 @@
+.content
+{
+    text-align: fill;
+}
+
+h2
+{
+    text-align: center;
+}
+
+.logo4
+{
+    float: center;
+    width: 430px;
+	background-color: black;
+	padding: 3px;	
+}

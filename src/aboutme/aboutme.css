@@ -1,0 +1,17 @@
+.content
+{
+    text-align: fill;
+}
+
+h2
+{
+    text-align: center;
+}
+
+.logo2
+{
+    float: left;
+    width: 490px;
+	background-color: black;
+	padding: 3px;	
+}

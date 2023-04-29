@@ -1,0 +1,28 @@
+
+.sidescroll
+{
+	overflow: auto;
+	white-space: nowrap;
+	background: rgba(0, 0, 0, 0.4);
+}
+
+.sidescroll a
+{
+	display: inline-block;
+	color: black;
+	text-align: center;
+	padding: 14px;
+	text-decoration: none;
+}
+
+.sidescroll a:hover
+{
+	background-color: #ddd;
+	color: #212924;
+}
+
+th, td
+{
+	font-size: 18px;
+	text-align: center;
+}
